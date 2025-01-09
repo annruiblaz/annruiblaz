@@ -3,8 +3,7 @@
 ¡Hola 🤗! Soy Anna
 </h1>
 
-<br>
-
+&nbsp; &nbsp;&nbsp; &nbsp;
 
 <p align="right">
 <a href="mailto:anna.ruiz.dev@gmail.com">
