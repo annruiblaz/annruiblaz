@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1 align="left">
 <img align="left" src="https://media.giphy.com/media/4TnHlUBm55QMzBLvq6/giphy.gif?cid=ecf05e47qipkta8lckgiwhk6kfbcvoy1sl159it1nb499txs&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 ¡Hola! 🤗
 </h1>
-<br><br><br><br>
+<br><br><br><br><br>
 <p>
   ¡Bienvenido a mi pequeño rincón de Github!
   <br> <br>
