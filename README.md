@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
 <img align="left" src="https://media.giphy.com/media/4TnHlUBm55QMzBLvq6/giphy.gif?cid=ecf05e47qipkta8lckgiwhk6kfbcvoy1sl159it1nb499txs&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 ¡Hola! 🤗
 </h1>
@@ -38,7 +38,7 @@ Soy una desarrolladora junior especializada en <b>frontend web</b>. En mi tiempo
 </a>
 </div>
 
-<h2>💌 ¿Quieres saber algo más?
+<h2>💌 ¿Quieres saber algo más?</h2>
 
 <ul style="list-style:none">
   <li><b>🌐 Linkedin:</b> <a href="https://www.linkedin.com/in/anna-ruiz-bl/">anna-ruiz-bl</a>
